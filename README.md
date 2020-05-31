@@ -7,4 +7,6 @@ Currently tested on Firefox v.76.0.1 for Windows 10.   status <working>
   
 Below are some screenshots
 
-[Reddit Theme v2.0](https://imgur.com/cHNXTJZ)
+![Reddit Create Post]https://github.com/jeremyperkin/Theme4NewReddit/blob/master/post%20page.PNG)
+
+![Reddit Homepage]https://github.com/jeremyperkin/Theme4NewReddit/blob/master/reddit.PNG)
