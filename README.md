@@ -9,4 +9,4 @@ Below are some screenshots
 
 ![Reddit Create Post](https://github.com/jeremyperkin/Theme4NewReddit/blob/master/post%20page.PNG)
 
-![Reddit Homepage](https://github.com/jeremyperkin/Theme4NewReddit/blob/master/reddit.PNG)
+![Reddit Homepage](https://github.com/jeremyperkin/Theme4NewReddit/blob/master/new%20reddit.PNG)
