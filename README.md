@@ -5,7 +5,7 @@ Utilized .CSS file to change color theme and remove a few sidebar items that wer
 
 Currently tested on Firefox v.76.0.1 for Windows 10.   status <working>
  
-<a href="https://www.buymeacoffee.com/v0id" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-violet.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/v0id" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-violet.png" alt="Buy Me A Coffee" style="height: 15px !important;width: 30px !important;" ></a>
  
 Below are some screenshots
 
